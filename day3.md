@@ -1,0 +1,1 @@
+Today we learned about 'for' and 'while' loops as well ash the Bash. I understand 'while' loops but the 'for' loops in js are a little daunting to me.
